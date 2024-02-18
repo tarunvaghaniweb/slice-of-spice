@@ -1,0 +1,58 @@
+[
+    {
+      "name": "veggie burger",
+      "description": "Classic Italian pasta dish with bacon, eggs, and Parmesan cheese.",
+      "price": "$70.00"
+    },
+    {
+      "name": "wild salmon burger",
+      "description": "Popular Indian dish with tender chicken pieces in a creamy tomato-based sauce.",
+      "price": "$70.00"
+    },
+    {
+      "name": "bean burger",
+      "description": "Delicious sushi roll with crab meat, avocado, and cucumber.",
+      "price": "$65.00"
+    },
+    {
+        "name": "neapolitan pizza",
+        "description": "Classic Italian pasta dish with bacon, eggs, and Parmesan cheese.",
+        "price": "$70.00"
+      },
+      {
+        "name": "chicago pizza",
+        "description": "Popular Indian dish with tender chicken pieces in a creamy tomato-based sauce.",
+        "price": "$70.00"
+      },
+      {
+        "name": "detroit pizza",
+        "description": "Delicious sushi roll with crab meat, avocado, and cucumber.",
+        "price": "$65.00"
+      },
+      {
+        "name": "neapolitan sandwich",
+        "description": "Classic Italian pasta dish with bacon, eggs, and Parmesan cheese.",
+        "price": "$70.00"
+      },
+      {
+        "name": "chicago sandwich",
+        "description": "Popular Indian dish with tender chicken pieces in a creamy tomato-based sauce.",
+        "price": "$70.00"
+      },
+      {
+        "name": "detroit sandwich",
+        "description": "Delicious sushi roll with crab meat, avocado, and cucumber.",
+        "price": "$65.00"
+      },
+    {
+      "name": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta dish with bacon, eggs, and Parmesan cheese.",
+      "price": "$12.99"
+    },
+    {
+      "name": "California Roll",
+      "description": "Delicious sushi roll with crab meat, avocado, and cucumber.",
+      "price": "$8.99"
+    }
+  ]
+  

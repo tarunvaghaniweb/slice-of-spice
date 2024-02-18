@@ -1,0 +1,32 @@
+/* *{
+    margin: 0;
+} */
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+    text-transform: capitalize;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: aqua;
+}
+
+a {
+    width: 100px;
+    height: 100px;
+    color: #ffffff;
+    background-color: blue;
+    text-decoration: none;
+    text-transform: capitalize;
+}

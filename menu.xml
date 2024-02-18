@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dishes>
+    <dish>
+        <name>veggie burger</name>
+        <price>$ 70.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>
+    <dish>
+        <name>wild salmon burger</name>
+        <price>$ 70.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>    
+    <dish>
+        <name>veggie burger</name>
+        <price>$ 65.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>
+    <dish>
+        <name>bean burger</name>
+        <price>$ 72.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>
+    <dish>
+        <name>neapolitan pizza</name>
+        <price>$ 72.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>   
+     <dish>
+        <name>chicago pizza</name>
+        <price>$ 70.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>  
+    <dish>
+        <name>detroit pizza</name>
+        <price>$ 72.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>   
+    <dish>
+        <name>neapolitan sandwich</name>
+        <price>$ 72.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>
+    <dish>
+        <name>chicago sandwich</name>
+        <price>$ 72.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>
+    <dish>
+        <name>detroit sandwich</name>
+        <price>$ 72.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>
+    <dish>
+        <name>neapolitan sandwich</name>
+        <price>$ 72.00</price>
+        <details>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae ducimus commodi optio ut harum, dolorem et
+        omnis dignissimos doloremque nemo. Quod.</details>
+    </dish>
+</dishes>
